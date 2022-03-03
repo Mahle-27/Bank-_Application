@@ -1,0 +1,38 @@
+
+
+Old Balance: 6900.0
+Transaction Occured: -100.0
+New Balance: 6800.0
+
+Old Balance: 7400.0
+Transaction Occured: -200.0
+New Balance: 7600.0
+
+Old Balance: 7600.0
+Transaction Occured: -2000.0
+New Balance: 5600.0
+
+Old Balance: 5600.0
+Transaction Occured: -1000.0
+New Balance: 6600.0
+
+Withdrawl Transaction
+
+Old Balance: 6600.0
+Transaction Occured: +100.0
+New Balance: 6500.0
+
+Withdrawl Transaction
+Old Balance: 6500.0
+Transaction Occured: +200.0
+New Balance: 6300.0
+
+Deposition Transaction
+Old Balance: 6300.0
+Transaction Occured: -500.0
+New Balance: 6800.0
+
+Withdrawl Transaction
+Old Balance: 6800.0
+Transaction Occured: -50.0
+New Balance: 6750.0
